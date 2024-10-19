@@ -1,0 +1,16 @@
+/node_modules
+/public/uploads
+/public/temp
+/public/*.xml
+/public/hot
+/storage/*.key
+.env.backup
+.phpunit.result.cache
+.php-cs-fixer.cache
+npm-debug.log
+yarn-error.log
+/.idea
+/.vscode
+/.editorconfig
+/plugin.txt
+/todo.txt
