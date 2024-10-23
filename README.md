@@ -1,4 +1,4 @@
-<a href="https://www.bianity.me/" target="_blank" rel="noopener">![image](https://github.com/user-attachments/assets/d918199a-c4d1-45d2-8c34-63cd03fbe48b)</a>
+<a href="https://www.bianity.me/" target="_blank" rel="noopener">![image](https://github.com/user-attachments/assets/327106b6-4be0-4e43-9dd4-18f7aca87324)</a>
 
 
 <h2 class="heading-element" dir="auto" tabindex="-1">Blogging Platform Application</h2>
